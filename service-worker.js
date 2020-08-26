@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/github.io/findflix-react/precache-manifest.f9b7f5764f9b2cbb0d4a16e1928f9f8b.js"
+  "/github.io/findflix-react/precache-manifest.e275fa53e4955263e246a2af67f8fdd2.js"
 );
 
 self.addEventListener('message', (event) => {

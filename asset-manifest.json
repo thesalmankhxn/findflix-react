@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/github.io/findflix-react/static/css/main.9eb3cb3d.chunk.css",
-    "main.js": "/github.io/findflix-react/static/js/main.ea76ce06.chunk.js",
-    "main.js.map": "/github.io/findflix-react/static/js/main.ea76ce06.chunk.js.map",
-    "runtime-main.js": "/github.io/findflix-react/static/js/runtime-main.668e706e.js",
-    "runtime-main.js.map": "/github.io/findflix-react/static/js/runtime-main.668e706e.js.map",
-    "static/js/2.7d2052f4.chunk.js": "/github.io/findflix-react/static/js/2.7d2052f4.chunk.js",
-    "static/js/2.7d2052f4.chunk.js.map": "/github.io/findflix-react/static/js/2.7d2052f4.chunk.js.map",
+    "main.js": "/github.io/findflix-react/static/js/main.2eb3a411.chunk.js",
+    "main.js.map": "/github.io/findflix-react/static/js/main.2eb3a411.chunk.js.map",
+    "runtime-main.js": "/github.io/findflix-react/static/js/runtime-main.0414e728.js",
+    "runtime-main.js.map": "/github.io/findflix-react/static/js/runtime-main.0414e728.js.map",
+    "static/js/2.7f73db83.chunk.js": "/github.io/findflix-react/static/js/2.7f73db83.chunk.js",
+    "static/js/2.7f73db83.chunk.js.map": "/github.io/findflix-react/static/js/2.7f73db83.chunk.js.map",
     "index.html": "/github.io/findflix-react/index.html",
-    "precache-manifest.f9b7f5764f9b2cbb0d4a16e1928f9f8b.js": "/github.io/findflix-react/precache-manifest.f9b7f5764f9b2cbb0d4a16e1928f9f8b.js",
+    "precache-manifest.e275fa53e4955263e246a2af67f8fdd2.js": "/github.io/findflix-react/precache-manifest.e275fa53e4955263e246a2af67f8fdd2.js",
     "service-worker.js": "/github.io/findflix-react/service-worker.js",
     "static/css/main.9eb3cb3d.chunk.css.map": "/github.io/findflix-react/static/css/main.9eb3cb3d.chunk.css.map",
-    "static/js/2.7d2052f4.chunk.js.LICENSE.txt": "/github.io/findflix-react/static/js/2.7d2052f4.chunk.js.LICENSE.txt"
+    "static/js/2.7f73db83.chunk.js.LICENSE.txt": "/github.io/findflix-react/static/js/2.7f73db83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.668e706e.js",
-    "static/js/2.7d2052f4.chunk.js",
+    "static/js/runtime-main.0414e728.js",
+    "static/js/2.7f73db83.chunk.js",
     "static/css/main.9eb3cb3d.chunk.css",
-    "static/js/main.ea76ce06.chunk.js"
+    "static/js/main.2eb3a411.chunk.js"
   ]
 }
