@@ -1,0 +1,15 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    background: cornsilk;
+
+    a {
+        text-decoration: none;
+    }
+}
